@@ -1,0 +1,17 @@
+Package: SSenzymekinetics
+Type: Package
+Title: Functions for Modeling Enzyme Kinetics
+Version: 0.1-2
+Date: 2018-07-09
+Authors@R: person("Nathan", "Malmberg", role=c("aut", "cre"),
+                  email="njmalmberg@gmail.com")
+Description: Provides a set of selfStart functions to use as the
+  right-hand side of a model formula in nonlinear optimization.
+  These functions are intended to complement the selfStart functions
+  in the stats package.
+License: GPL-3
+RoxygenNote: 6.0.1
+NeedsCompilation: no
+Packaged: 2017-06-12 18:36:06 UTC; nathanmalmberg
+Author: Nathan Malmberg [aut, cre]
+Maintainer: Nathan Malmberg <njmalmberg@gmail.com>
